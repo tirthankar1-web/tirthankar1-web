@@ -1,4 +1,4 @@
-# Hi, I'm [TIRTHANKAR GOPE] 👋  
+# Hi, I'm TIRTHANKAR GOPE 👋  
 
 🏅 Sports Enthusiast | 💻 MERN Stack Developer | 🌍 Traveler  
 
