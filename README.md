@@ -28,7 +28,7 @@
 - 🎭 **Patreon Clone (Fullstack)** – MERN app with authentication, subscriptions, and creator pages  
 - ✅ **To-Do List App** – React app with local storage, CRUD, and filtering  
 - <img width="20" height="25" alt="download" src="https://github.com/user-attachments/assets/8ba18990-6a2d-4489-a38d-03b45f493d98" /> AI Finance Platform - Full Stack Development
-- 
+  
 
 👉 *Check out my pinned repositories for code & demos!*  
 
