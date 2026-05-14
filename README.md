@@ -27,6 +27,7 @@
 - 🌐 **Travel Blog Website** – MERN stack project showcasing destinations  
 - 🎭 **Patreon Clone (Fullstack)** – MERN app with authentication, subscriptions, and creator pages  
 - ✅ **To-Do List App** – React app with local storage, CRUD, and filtering  
+- **SpaceSense** - Spatio temporal based encroachment alert and intelligent system. 
 - <img width="20" height="25" alt="download" src="https://github.com/user-attachments/assets/8ba18990-6a2d-4489-a38d-03b45f493d98" /> AI Finance Platform - Full Stack Development
   
 
